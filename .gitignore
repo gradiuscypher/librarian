@@ -1,5 +1,6 @@
 # gradius ignores
 venv3/
+.vscode/
 *.conf
 *.log
 
